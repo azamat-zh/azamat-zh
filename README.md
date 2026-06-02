@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I'm **Azamat**, a Software Engineering student
-Currently learning computer graphics and mobile development 
+I'm **Azamat**, a Software Engineering student.
+
+Currently learning **computer graphics** and **mobile development**.
 
 <!--
 **azamat-zh/azamat-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
